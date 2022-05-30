@@ -1,0 +1,104 @@
+id: 5c2954197d3346639fe7d3ab1ba97b1a
+annotation_type: Segment
+revision: '00001'
+annotations:
+  7b4d8d74ec514c79a085275c571e10d5:
+    span:
+      start: 0
+      end: 48
+    metadata: {}
+  97ade9b0c6ef4df6a33d80a1b3b53bd9:
+    span:
+      start: 50
+      end: 162
+    metadata: {}
+  430cd2af0d60427988a6a68cbe2490ee:
+    span:
+      start: 164
+      end: 277
+    metadata: {}
+  552c55ea923049afbf86c99f970ded19:
+    span:
+      start: 279
+      end: 390
+    metadata: {}
+  180b325e641b46b582a6a2ce4e0eb491:
+    span:
+      start: 392
+      end: 510
+    metadata: {}
+  a60b968efdab46e3b3b5aa193403af10:
+    span:
+      start: 512
+      end: 622
+    metadata: {}
+  715d8fce564941b3909b6e9aa082b421:
+    span:
+      start: 624
+      end: 727
+    metadata: {}
+  cb2679b673ad4125911185ec591194f4:
+    span:
+      start: 729
+      end: 842
+    metadata: {}
+  843ef75a65d04e0e94da8c547ef7e10e:
+    span:
+      start: 844
+      end: 957
+    metadata: {}
+  c0577e6d6ac640d9845b8727b625433f:
+    span:
+      start: 959
+      end: 1074
+    metadata: {}
+  92278398ac7b4db89a8ac7b6464fbcb0:
+    span:
+      start: 1076
+      end: 1197
+    metadata: {}
+  d06739bf8c8a447881c9df1feb4f3ee9:
+    span:
+      start: 1199
+      end: 1311
+    metadata: {}
+  48caa73454084721acf705ab7e5e0ca2:
+    span:
+      start: 1313
+      end: 1431
+    metadata: {}
+  711a08f8b20d4d8f9d082331018b50eb:
+    span:
+      start: 1433
+      end: 1545
+    metadata: {}
+  c5766484ccf240a6948226ac6b7ec758:
+    span:
+      start: 1547
+      end: 1657
+    metadata: {}
+  ec380050d5db4095ba913be919f08d25:
+    span:
+      start: 1659
+      end: 1778
+    metadata: {}
+  1e651a9dd84146f5b6731d0299d0358d:
+    span:
+      start: 1780
+      end: 1901
+    metadata: {}
+  3c4b603fc1e3481b87cfa921dffb2748:
+    span:
+      start: 1903
+      end: 1921
+    metadata: {}
+  cf184a247cfe479998f552618b36dc49:
+    span:
+      start: 1923
+      end: 1996
+    metadata: {}
+  6ef2defe4d464a96bfa77eab45033055:
+    span:
+      start: 1998
+      end: 2036
+    metadata: {}
